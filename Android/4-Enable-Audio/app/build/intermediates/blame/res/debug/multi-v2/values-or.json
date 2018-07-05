@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rtalusani/Work/Stitch/Android/4-Enable-Audio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/rtalusani/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/7233ff658f8da42925c0e11f81fab44b/res/values-or/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "102",
+                        "endOffsets": "307"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

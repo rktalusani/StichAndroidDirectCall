@@ -1,0 +1,3 @@
+# Referenced at /Users/rtalusani/Work/Stitch/Android/4-Enable-Audio/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:26
+-keep class com.nexmo.enableaudio.ConversationClientApplication { <init>(...); }
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nexmo:client:3.4.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nexmo/client/3.4.0/aca735c30ad2f481a7a4552c63e39bd1f9d3e80/client-3.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nexmo/client/3.4.0/bd5d2cb3573f5d5ebc63dab90f2aa0533462e97/client-3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
